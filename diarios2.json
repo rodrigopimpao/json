@@ -2,7 +2,7 @@
   {
   "diarios": {
     "diario1": {
-      "id" : "ATnDUWhh4sG196JIqQyUCg==",
+      "id": "ATnDUWhh4sG196JIqQyUCg==",
       "disciplines": {
         "1763954": {
                       "ok": "link",
@@ -15,7 +15,7 @@
         "1233123": {
                       "ok": "link",
                       "nok": "link2"
-                    },
+                    }
       },
       "img":  "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
       "titulo":  "Comunicação Digital"
@@ -34,7 +34,7 @@
         "1233123": {
                       "ok": "link",
                       "nok": "link2"
-                    },
+                    }
       },
       "img":  "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
       "titulo":  "Comunicação Digital"
