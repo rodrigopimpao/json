@@ -3,41 +3,41 @@
   "diarios": {
     "diario1": {
       "id" : "ATnDUWhh4sG196JIqQyUCg==",
-      "disciplines" : {
-        "1763954" : {
+      "disciplines": {
+        "1763954": {
                       "ok": "link",
                       "nok": "link2"
                     },
-        "1763973" : {
+        "1763973": {
                       "ok": "link",
                       "nok": "link2"
                     },
-        "1233123" : {
+        "1233123": {
                       "ok": "link",
                       "nok": "link2"
                     },
       },
-      "img" :  "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
-      "titulo" :  "Comunicação Digital"
+      "img":  "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+      "titulo":  "Comunicação Digital"
     },
     "diario2": {
-      "id" : "68lnva425iHaiWAM1cObhQ==",
-      "disciplines" : {
-        "1763954" : {
+      "id": "68lnva425iHaiWAM1cObhQ==",
+      "disciplines": {
+        "1763954": {
                       "ok": "link",
                       "nok": "link2"
                     },
-        "1763973" : {
+        "1763973": {
                       "ok": "link",
                       "nok": "link2"
                     },
-        "1233123" : {
+        "1233123": {
                       "ok": "link",
                       "nok": "link2"
                     },
       },
-      "img" :  "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
-      "titulo" :  "Comunicação Digital"
+      "img":  "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+      "titulo":  "Comunicação Digital"
     }
   }
   }
