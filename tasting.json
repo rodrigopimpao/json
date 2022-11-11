@@ -1,0 +1,52 @@
+[
+  {
+    "diarios": {
+      "diario1": {
+        "id": "ATnDUWhh4sG196JIqQyUCg==",
+        "disciplines": {
+          "1233123": {
+			"href": "https://pos.una.br/nanodegrees/comunicacao-digital-2/",
+			"href2": "https://nano.una.br/?add-to-cart=142&_ga=2.208710871.498083944.1658262034-18075043.1654272926",
+			"img": "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+			"titulo": "Comunicação Digital"
+          },
+          "1763954": {
+            "href": "https://pos.una.br/nanodegrees/comunicacao-digital-2/",
+			"href2": "https://nano.una.br/?add-to-cart=142&_ga=2.208710871.498083944.1658262034-18075043.1654272926",
+			"img": "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+			"titulo": "Comunicação Digital"
+          },
+          "1763973": {
+            "href": "https://pos.una.br/nanodegrees/comunicacao-digital-2/",
+			"href2": "https://nano.una.br/?add-to-cart=142&_ga=2.208710871.498083944.1658262034-18075043.1654272926",
+			"img": "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+			"titulo": "Comunicação Digital"
+          }
+        }
+      },
+      "diario2": {
+        "id": "68lnva425iHaiWAM1cObhQ==",
+        "disciplines": {
+          "1233123": {
+            "href": "https://pos.una.br/nanodegrees/comunicacao-digital-2/",
+			"href2": "https://nano.una.br/?add-to-cart=142&_ga=2.208710871.498083944.1658262034-18075043.1654272926",
+			"img": "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+			"titulo": "Comunicação Digital"
+          },
+          "1763954": {
+            "href": "https://pos.una.br/nanodegrees/comunicacao-digital-2/",
+			"href2": "https://nano.una.br/?add-to-cart=142&_ga=2.208710871.498083944.1658262034-18075043.1654272926",
+			"img": "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+			"titulo": "Comunicação Digital"
+          },
+          "1763973": {
+            "href": "https://pos.una.br/nanodegrees/comunicacao-digital-2/",
+			"href2": "https://nano.una.br/?add-to-cart=142&_ga=2.208710871.498083944.1658262034-18075043.1654272926",
+			"img": "https://pos.una.br/app/uploads/2021/01/comunicacaodigital-VITRINE.jpg",
+			"titulo": "Comunicação Digital"
+          }
+        }
+      }
+    }
+  }
+]
