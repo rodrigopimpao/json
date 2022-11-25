@@ -1,58 +1,4844 @@
 [
-  {
-    "diarios": {
-      "diario1": {
-        "id": "oQUkw5u0XawRThsRtox1RA==",
-        "disciplines": {
-          "1763978": {
-						"perc": "90",
-						"ok": "https://www.google.com.br/1",
-						"nok": "https://www.google.com.br/2",
-						"img": "https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
-						"titulo": "Relações Estatais, Meio Ambiente E Sustentabilidade"
-          },
-          "1765240": {
-						"perc": "88",
-            "ok": "https://www.google.com.br/3",
-						"nok": "https://www.google.com.br/4",
-						"img": "https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
-						"titulo": "Profissão Docente E Identidade Profissional"
-          },
-          "1766675": {
-						"perc": "87",
-            "ok": "https://www.google.com.br/5",
-						"nok": "https://www.google.com.br/6",
-						"img": "https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
-						"titulo": "Aspectos Humanos E Socioculturais"
-          }
-        }
-      },
-      "diario2": {
-        "id": "oaDBFXq3pOetKKNbcY/y7A==",
-        "disciplines": {
-          "1766675": {
-						"perc": "88",
-						"ok": "https://www.google.com.br/7",
-						"nok": "https://www.google.com.br/8",
-						"img": "https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
-						"titulo": "Aspectos Humanos E Socioculturais"
-          },
-          "1766689": {
-						"perc": "87",
-            "ok": "https://www.google.com.br/9",
-						"nok": "https://www.google.com.br/10",
-						"img": "https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
-						"titulo": "Relações Estatais, Meio Ambiente E Sustentabilidade"
-          },
-          "1765245": {
-						"perc": "87",
-            "ok": "https://www.google.com.br/11",
-						"nok": "https://www.google.com.br/12",
-						"img": "https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
-						"titulo": "Tomada De Decisão"
-          }
-        }
+{
+   "diario1":{
+      "id":"oQUkw5u0XawRThsRtox1RA==",
+      "disciplines":{
+         "1766689":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
       }
-    }
-  }
+   },
+   "diario2":{
+      "id":"oaDBFXq3pOetKKNbcY/y7A==",
+      "disciplines":{
+         "1766675":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1766689":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         }
+      }
+   },
+   "diario3":{
+      "id":"fyZdLOQyU3VAJ3p+DjBk5A==",
+      "disciplines":{
+         "1766675":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765240":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765245":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1766684":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         }
+      }
+   },
+   "diario4":{
+      "id":"ysYQIiAeBBwpWVldUxD24w==",
+      "disciplines":{
+         "1765240":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766679":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766679",
+            "nok":"http://www.google.com.br/n/1766679",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/08educacaobasicaavaliacaocurriculo_20221013175932.jpg",
+            "titulo":"Educação Básica: Avaliação E Currículo"
+         },
+         "1766689":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1766675":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"84",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario5":{
+      "id":"AKLkIaqsShPuv9Mj9lF01A==",
+      "disciplines":{
+         "1766675":{
+            "perc":"84",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"84",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766683":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         },
+         "1765232":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765240":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         }
+      }
+   },
+   "diario6":{
+      "id":"RAADKFqFYDtHtnJ2SHn57Q==",
+      "disciplines":{
+         "1765240":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766680":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766680",
+            "nok":"http://www.google.com.br/n/1766680",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/09estudoscriticoshistoriaartecultura_20221013180008.jpg",
+            "titulo":"Estudos Críticos: História, Arte E Cultura"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario7":{
+      "id":"DncLAyjI6Ww8dHuSW4B6GQ==",
+      "disciplines":{
+         "1766649":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766649",
+            "nok":"http://www.google.com.br/n/1766649",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/21medicaocienciasrepresentacaografica_20221018093044.jpg",
+            "titulo":"Medição Em Ciências E Representação Gráfica"
+         },
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766684":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         }
+      }
+   },
+   "diario8":{
+      "id":"iAp/i9UdePXEGGXmRTPr4Q==",
+      "disciplines":{
+         "1766680":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766680",
+            "nok":"http://www.google.com.br/n/1766680",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/09estudoscriticoshistoriaartecultura_20221013180008.jpg",
+            "titulo":"Estudos Críticos: História, Arte E Cultura"
+         },
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario9":{
+      "id":"iq+W/9i93+nXWcMuO6hA7Q==",
+      "disciplines":{
+         "1766689":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1766687":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766687",
+            "nok":"http://www.google.com.br/n/1766687",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/16pessoasrelacoesfamiliaressucessorias_20221013180304.jpg",
+            "titulo":"Pessoas, Relações Familiares E Sucessórias"
+         },
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario10":{
+      "id":"oOWAta95PBXduCKJKLZVKQ==",
+      "disciplines":{
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765244":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765245":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1766675":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         }
+      }
+   },
+   "diario11":{
+      "id":"wiGe1bmexGW5VIZKzvCJgA==",
+      "disciplines":{
+         "1766679":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1766679",
+            "nok":"http://www.google.com.br/n/1766679",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/08educacaobasicaavaliacaocurriculo_20221013175932.jpg",
+            "titulo":"Educação Básica: Avaliação E Currículo"
+         },
+         "1766675":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765244":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario12":{
+      "id":"GfUB3L5xsbTIeYWyoOfHCQ==",
+      "disciplines":{
+         "1766684":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         },
+         "1765240":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765244":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765245":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766675":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         }
+      }
+   },
+   "diario13":{
+      "id":"fkQEXCxBD7cTmswQE+uyNA==",
+      "disciplines":{
+         "1765240":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario14":{
+      "id":"aFG8NRzpzqqlLnwMOGM2sg==",
+      "disciplines":{
+         "1766689":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765230":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765230",
+            "nok":"http://www.google.com.br/n/1765230",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Estadopolticaedireito_20220823172356.jpg",
+            "titulo":"Estado Política E Direito"
+         },
+         "1766675":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario15":{
+      "id":"J/TBb1FUMILX9mZ/d3QOQA==",
+      "disciplines":{
+         "1766673":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1766673",
+            "nok":"http://www.google.com.br/n/1766673",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/02ambientes_computacionais_conectividade_20221013175549.jpg",
+            "titulo":"Ambientes Computacionais E Conectividade"
+         },
+         "1765240":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario16":{
+      "id":"CWFSBfsa3isZvYeVGGBwOQ==",
+      "disciplines":{
+         "1766675":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765240":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765232":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765244":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1766684":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         }
+      }
+   },
+   "diario17":{
+      "id":"NFGwSpbZtDxwMShmGca26g==",
+      "disciplines":{
+         "1765264":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765264",
+            "nok":"http://www.google.com.br/n/1765264",
+            "img":"",
+            "titulo":"Neuropsicologia Das Funções Cognitivas"
+         },
+         "1765312":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765312",
+            "nok":"http://www.google.com.br/n/1765312",
+            "img":"",
+            "titulo":"Neuropsicologia E Terapia Cognitiva Comportamental"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765281":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765253":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765253",
+            "nok":"http://www.google.com.br/n/1765253",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/engenharia_preparacao_visualizacao_dados_20220624181315.jpg",
+            "titulo":"Engenharia, Preparação E Visualização De Dados"
+         }
+      }
+   },
+   "diario18":{
+      "id":"vYkTuUCNOVimm0yknA447w==",
+      "disciplines":{
+         "1766676":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1766676",
+            "nok":"http://www.google.com.br/n/1766676",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/05biossegurancasegurancatrabalhadorservicossaude_20221013175811.jpg",
+            "titulo":"Biossegurança E Segurança Do Trabalhador Em Serviços De Saúde"
+         },
+         "1765294":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765294",
+            "nok":"http://www.google.com.br/n/1765294",
+            "img":"",
+            "titulo":"Engenharia De Segurança E Ergonomia No Trabalho"
+         },
+         "1765277":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765277",
+            "nok":"http://www.google.com.br/n/1765277",
+            "img":"",
+            "titulo":"Auditoria Em Saúde"
+         },
+         "1765276":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765276",
+            "nok":"http://www.google.com.br/n/1765276",
+            "img":"",
+            "titulo":"Assistência De Enfermagem Em Oncologia"
+         },
+         "1765242":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765242",
+            "nok":"http://www.google.com.br/n/1765242",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sadenica_20220823121052.jpg",
+            "titulo":"Saúde Única"
+         }
+      }
+   },
+   "diario19":{
+      "id":"Fl95L5VJtdajWAN8OAtb2A==",
+      "disciplines":{
+         "1765240":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766683":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         }
+      }
+   },
+   "diario20":{
+      "id":"L7fOL4Ia6HQy+48IRsVAAQ==",
+      "disciplines":{
+         "1765252":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         },
+         "1765288":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765289":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765289",
+            "nok":"http://www.google.com.br/n/1765289",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesequilbriosMultisistmicos_20220823121647.jpg",
+            "titulo":"Desequilíbrios Multissistêmicos"
+         },
+         "1765320":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765320",
+            "nok":"http://www.google.com.br/n/1765320",
+            "img":"",
+            "titulo":"Reprodução E Obstetricia De Cães E Gatos"
+         },
+         "1765321":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765321",
+            "nok":"http://www.google.com.br/n/1765321",
+            "img":"",
+            "titulo":"Reprodução E Obstetrícia Em Bovinos E Equinos"
+         }
+      }
+   },
+   "diario21":{
+      "id":"HlNqUSTxiObxpbNVthzVxw==",
+      "disciplines":{
+         "1765274":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765274",
+            "nok":"http://www.google.com.br/n/1765274",
+            "img":"",
+            "titulo":"Análise De Vulnerabilidades E Testes De Invasão"
+         },
+         "1765261":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765271":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765281":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765275":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         }
+      }
+   },
+   "diario22":{
+      "id":"aZahF+jBQtWWx6DquPeE2Q==",
+      "disciplines":{
+         "1765290":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765290",
+            "nok":"http://www.google.com.br/n/1765290",
+            "img":"",
+            "titulo":"Design E Inovação"
+         },
+         "1765237":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765237",
+            "nok":"http://www.google.com.br/n/1765237",
+            "img":"",
+            "titulo":"Metodologia De Projeto"
+         },
+         "1765285":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765254":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765254",
+            "nok":"http://www.google.com.br/n/1765254",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/experiencia_usuario_ai_20220624181351.jpg",
+            "titulo":"Experiência De Usuário E Ia"
+         }
+      }
+   },
+   "diario23":{
+      "id":"n8Y0svcH+BO8xkjWmnPPdA==",
+      "disciplines":{
+         "1765288":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765249":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765249",
+            "nok":"http://www.google.com.br/n/1765249",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1492955489_20200730204822.jpg",
+            "titulo":"Cardiologia Em Cães E Gatos"
+         },
+         "1765320":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765320",
+            "nok":"http://www.google.com.br/n/1765320",
+            "img":"",
+            "titulo":"Reprodução E Obstetricia De Cães E Gatos"
+         },
+         "1765289":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765289",
+            "nok":"http://www.google.com.br/n/1765289",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesequilbriosMultisistmicos_20220823121647.jpg",
+            "titulo":"Desequilíbrios Multissistêmicos"
+         },
+         "1765321":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765321",
+            "nok":"http://www.google.com.br/n/1765321",
+            "img":"",
+            "titulo":"Reprodução E Obstetrícia Em Bovinos E Equinos"
+         }
+      }
+   },
+   "diario24":{
+      "id":"lhZSgsj+khLl2OES+wxEng==",
+      "disciplines":{
+         "1765318":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765318",
+            "nok":"http://www.google.com.br/n/1765318",
+            "img":"",
+            "titulo":"Processamento De Dados Massivos E Modelos De Aprendizado"
+         },
+         "1765261":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765259":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765259",
+            "nok":"http://www.google.com.br/n/1765259",
+            "img":"",
+            "titulo":"Infraestrutura Para Cloud Computing E Big Data"
+         },
+         "1765250":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765282":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765282",
+            "nok":"http://www.google.com.br/n/1765282",
+            "img":"",
+            "titulo":"Computação Em Nuvem"
+         }
+      }
+   },
+   "diario25":{
+      "id":"WwXAVpim60y/KyslYU6R5Q==",
+      "disciplines":{
+         "1765260":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765260",
+            "nok":"http://www.google.com.br/n/1765260",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/inteligencia_artificial_comunicacao_20220624180027.jpg",
+            "titulo":"Inteligência Artificial Na Comunicação"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765251":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765251",
+            "nok":"http://www.google.com.br/n/1765251",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesingThinking_20220823121844.jpg",
+            "titulo":"Design Thinking"
+         },
+         "1765326":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765253":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765253",
+            "nok":"http://www.google.com.br/n/1765253",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/engenharia_preparacao_visualizacao_dados_20220624181315.jpg",
+            "titulo":"Engenharia, Preparação E Visualização De Dados"
+         }
+      }
+   },
+   "diario26":{
+      "id":"ylThhMJ7p8/TMZgrHrSyFA==",
+      "disciplines":{
+         "1765261":{
+            "perc":"79",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765310":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765310",
+            "nok":"http://www.google.com.br/n/1765310",
+            "img":"",
+            "titulo":"Metodologias Para Gestão De Projetos"
+         },
+         "1765279":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765279",
+            "nok":"http://www.google.com.br/n/1765279",
+            "img":"",
+            "titulo":"Cenários De Devops"
+         },
+         "1766684":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         },
+         "1765281":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         }
+      }
+   },
+   "diario27":{
+      "id":"4ZCf/0ZHOXLZ8dLu13PGOA==",
+      "disciplines":{
+         "1766673":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766673",
+            "nok":"http://www.google.com.br/n/1766673",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/02ambientes_computacionais_conectividade_20221013175549.jpg",
+            "titulo":"Ambientes Computacionais E Conectividade"
+         },
+         "1765244":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766675":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         }
+      }
+   },
+   "diario28":{
+      "id":"Bi60YEUjIdXVyrRpQpURfw==",
+      "disciplines":{
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766683":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         }
+      }
+   },
+   "diario29":{
+      "id":"n4nOodiutAu4upWgE7BzPQ==",
+      "disciplines":{
+         "1765300":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765315":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         },
+         "1765234":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765234",
+            "nok":"http://www.google.com.br/n/1765234",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Globalizaoeestratgia_20220823120729.jpg",
+            "titulo":"Globalização E Estratégia"
+         },
+         "1765326":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765323":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765323",
+            "nok":"http://www.google.com.br/n/1765323",
+            "img":"",
+            "titulo":"Sistemas Integrados De Gestão"
+         }
+      }
+   },
+   "diario30":{
+      "id":"c7zCpyO/dy+RaYjhePUSEg==",
+      "disciplines":{
+         "1765278":{
+            "perc":"84",
+            "ok":"http://www.google.com.br/1765278",
+            "nok":"http://www.google.com.br/n/1765278",
+            "img":"",
+            "titulo":"Big Data Analytics"
+         },
+         "1765282":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1765282",
+            "nok":"http://www.google.com.br/n/1765282",
+            "img":"",
+            "titulo":"Computação Em Nuvem"
+         },
+         "1765279":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765279",
+            "nok":"http://www.google.com.br/n/1765279",
+            "img":"",
+            "titulo":"Cenários De Devops"
+         },
+         "1765253":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765253",
+            "nok":"http://www.google.com.br/n/1765253",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/engenharia_preparacao_visualizacao_dados_20220624181315.jpg",
+            "titulo":"Engenharia, Preparação E Visualização De Dados"
+         },
+         "1765256":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765256",
+            "nok":"http://www.google.com.br/n/1765256",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/gerenciamento_governanca_servicos_nuvem_20220624181244.jpg",
+            "titulo":"Gerenciamento E Governança De Serviços Na Nuvem"
+         }
+      }
+   },
+   "diario31":{
+      "id":"b/bANhu3PWePCzGtPqfdbA==",
+      "disciplines":{
+         "1765244":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1766675":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766683":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         },
+         "1765248":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765248",
+            "nok":"http://www.google.com.br/n/1765248",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Campanhaintegradadecomunicao_20220823121830.jpg",
+            "titulo":"Campanha Integrada De Comunicação"
+         }
+      }
+   },
+   "diario32":{
+      "id":"HiFDnnIJM1qpfNick32CgQ==",
+      "disciplines":{
+         "1765255":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765255",
+            "nok":"http://www.google.com.br/n/1765255",
+            "img":"",
+            "titulo":"Formação Scrum Master E Product Owner"
+         },
+         "1765281":{
+            "perc":"66",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765275":{
+            "perc":"63",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765250":{
+            "perc":"63",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765299":{
+            "perc":"60",
+            "ok":"http://www.google.com.br/1765299",
+            "nok":"http://www.google.com.br/n/1765299",
+            "img":"",
+            "titulo":"Finanças Corporativas"
+         }
+      }
+   },
+   "diario33":{
+      "id":"M1uY1iBfrykTWCChI2YVtg==",
+      "disciplines":{
+         "1765238":{
+            "perc":"64",
+            "ok":"http://www.google.com.br/1765238",
+            "nok":"http://www.google.com.br/n/1765238",
+            "img":"",
+            "titulo":"Modelagem E Simulação De Sistemas Elétricos E Magnéticos"
+         },
+         "1765245":{
+            "perc":"63",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765240":{
+            "perc":"62",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765244":{
+            "perc":"62",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765248":{
+            "perc":"62",
+            "ok":"http://www.google.com.br/1765248",
+            "nok":"http://www.google.com.br/n/1765248",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Campanhaintegradadecomunicao_20220823121830.jpg",
+            "titulo":"Campanha Integrada De Comunicação"
+         }
+      }
+   },
+   "diario34":{
+      "id":"QyowJaFeZTC2TlADa415uw==",
+      "disciplines":{
+         "1765240":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766686":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1766686",
+            "nok":"http://www.google.com.br/n/1766686",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/15narrativasproducaotransmidia_20221013181253.jpg",
+            "titulo":"Narrativas E Produção Transmídia"
+         },
+         "1766675":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario35":{
+      "id":"A7asoa2PKLr7PjmOvZooNw==",
+      "disciplines":{
+         "1765311":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765311",
+            "nok":"http://www.google.com.br/n/1765311",
+            "img":"",
+            "titulo":"Neuropsicofarmacologia"
+         },
+         "1765312":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765312",
+            "nok":"http://www.google.com.br/n/1765312",
+            "img":"",
+            "titulo":"Neuropsicologia E Terapia Cognitiva Comportamental"
+         },
+         "1765246":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765246",
+            "nok":"http://www.google.com.br/n/1765246",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/AvaliaoeReabilitaoNeuropsicolgicadeAdolescentes_20220823121744.jpg",
+            "titulo":"Avaliação E Reabilitação Neuropsicológica De Adolescentes"
+         },
+         "1765318":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765318",
+            "nok":"http://www.google.com.br/n/1765318",
+            "img":"",
+            "titulo":"Processamento De Dados Massivos E Modelos De Aprendizado"
+         },
+         "1765252":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         }
+      }
+   },
+   "diario36":{
+      "id":"uDV61b4QUnwifDCty7Wyrg==",
+      "disciplines":{
+         "1765303":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765303",
+            "nok":"http://www.google.com.br/n/1765303",
+            "img":"",
+            "titulo":"Gestão De Alimentos E Bebidas"
+         },
+         "1765275":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765330":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765330",
+            "nok":"http://www.google.com.br/n/1765330",
+            "img":"",
+            "titulo":"Turismo Gastronômico"
+         },
+         "1765299":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765299",
+            "nok":"http://www.google.com.br/n/1765299",
+            "img":"",
+            "titulo":"Finanças Corporativas"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         }
+      }
+   },
+   "diario37":{
+      "id":"iniRVBzSaixT3MLfKfB2xQ==",
+      "disciplines":{
+         "1765281":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1766675":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765261":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765300":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765253":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765253",
+            "nok":"http://www.google.com.br/n/1765253",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/engenharia_preparacao_visualizacao_dados_20220624181315.jpg",
+            "titulo":"Engenharia, Preparação E Visualização De Dados"
+         }
+      }
+   },
+   "diario38":{
+      "id":"Ak6yeiHxg9oIs1kVnW6FsQ==",
+      "disciplines":{
+         "1765270":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765270",
+            "nok":"http://www.google.com.br/n/1765270",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/2113795/Aquartarevoluoindustrialeasociedadedainformao_20191022134121.jpg",
+            "titulo":"A Quarta Revolução Industrial E A Sociedade Da Informação"
+         },
+         "1765316":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         },
+         "1765269":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765269",
+            "nok":"http://www.google.com.br/n/1765269",
+            "img":"",
+            "titulo":"A Privacidade Como Marco Legislativo E O Direito Ao Esquecimento"
+         },
+         "1765268":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         },
+         "1765327":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         }
+      }
+   },
+   "diario39":{
+      "id":"RPh6BUmFbaqH0JfnRTGwfg==",
+      "disciplines":{
+         "1765316":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         },
+         "1765327":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         },
+         "1765328":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765328",
+            "nok":"http://www.google.com.br/n/1765328",
+            "img":"",
+            "titulo":"Teoria Do Crime"
+         },
+         "1765319":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         },
+         "1765286":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765286",
+            "nok":"http://www.google.com.br/n/1765286",
+            "img":"",
+            "titulo":"Contabilidade E Planejamento Tributário"
+         }
+      }
+   },
+   "diario40":{
+      "id":"btOht9n4PQyGt1ZgMA8slQ==",
+      "disciplines":{
+         "1765267":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765267",
+            "nok":"http://www.google.com.br/n/1765267",
+            "img":"",
+            "titulo":"A Constituição Federal E A Tecnologia Da Informação"
+         },
+         "1765270":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765270",
+            "nok":"http://www.google.com.br/n/1765270",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/2113795/Aquartarevoluoindustrialeasociedadedainformao_20191022134121.jpg",
+            "titulo":"A Quarta Revolução Industrial E A Sociedade Da Informação"
+         },
+         "1765314":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765314",
+            "nok":"http://www.google.com.br/n/1765314",
+            "img":"",
+            "titulo":"O Marco Civil Da Internet E A Lei De Proteção De Dados"
+         },
+         "1765271":{
+            "perc":"66",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765316":{
+            "perc":"61",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         }
+      }
+   },
+   "diario41":{
+      "id":"au4vZ70ecglntVqnBksXbg==",
+      "disciplines":{
+         "1765267":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765267",
+            "nok":"http://www.google.com.br/n/1765267",
+            "img":"",
+            "titulo":"A Constituição Federal E A Tecnologia Da Informação"
+         },
+         "1765314":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765314",
+            "nok":"http://www.google.com.br/n/1765314",
+            "img":"",
+            "titulo":"O Marco Civil Da Internet E A Lei De Proteção De Dados"
+         },
+         "1765268":{
+            "perc":"66",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         },
+         "1765316":{
+            "perc":"66",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         },
+         "1765327":{
+            "perc":"66",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         }
+      }
+   },
+   "diario42":{
+      "id":"qnQHEh9aiajlpIh3yWn/kA==",
+      "disciplines":{
+         "1765269":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765269",
+            "nok":"http://www.google.com.br/n/1765269",
+            "img":"",
+            "titulo":"A Privacidade Como Marco Legislativo E O Direito Ao Esquecimento"
+         },
+         "1765314":{
+            "perc":"64",
+            "ok":"http://www.google.com.br/1765314",
+            "nok":"http://www.google.com.br/n/1765314",
+            "img":"",
+            "titulo":"O Marco Civil Da Internet E A Lei De Proteção De Dados"
+         },
+         "1765267":{
+            "perc":"63",
+            "ok":"http://www.google.com.br/1765267",
+            "nok":"http://www.google.com.br/n/1765267",
+            "img":"",
+            "titulo":"A Constituição Federal E A Tecnologia Da Informação"
+         },
+         "1765250":{
+            "perc":"62",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765281":{
+            "perc":"61",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         }
+      }
+   },
+   "diario43":{
+      "id":"bKV/fHXHvc6pjJyS7MGXJQ==",
+      "disciplines":{
+         "1765231":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765231",
+            "nok":"http://www.google.com.br/n/1765231",
+            "img":"",
+            "titulo":"Estruturas E Ambientes Das Organizações"
+         },
+         "1765232":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765233":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765233",
+            "nok":"http://www.google.com.br/n/1765233",
+            "img":"",
+            "titulo":"Gestão Educacional E Políticas Públicas"
+         },
+         "1765234":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765234",
+            "nok":"http://www.google.com.br/n/1765234",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Globalizaoeestratgia_20220823120729.jpg",
+            "titulo":"Globalização E Estratégia"
+         },
+         "1765235":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765235",
+            "nok":"http://www.google.com.br/n/1765235",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/LinguagenseRelaesEstticas_20220823120752.jpg",
+            "titulo":"Linguagens E Relações Estéticas"
+         }
+      }
+   },
+   "diario44":{
+      "id":"pgNuuldp0+KgIKHcpTsQVA==",
+      "disciplines":{
+         "1765293":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765293",
+            "nok":"http://www.google.com.br/n/1765293",
+            "img":"",
+            "titulo":"Enfermagem E Os Distúrbios Gastrointestinais, Ostomias E Sondas"
+         },
+         "1765272":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765272",
+            "nok":"http://www.google.com.br/n/1765272",
+            "img":"",
+            "titulo":"Afecções Do Sistema Digestório De Bovinos"
+         },
+         "1765321":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765321",
+            "nok":"http://www.google.com.br/n/1765321",
+            "img":"",
+            "titulo":"Reprodução E Obstetrícia Em Bovinos E Equinos"
+         },
+         "1765320":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765320",
+            "nok":"http://www.google.com.br/n/1765320",
+            "img":"",
+            "titulo":"Reprodução E Obstetricia De Cães E Gatos"
+         },
+         "1765288":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         }
+      }
+   },
+   "diario45":{
+      "id":"I3YyYk/0/ZUKYM86f1j0pg==",
+      "disciplines":{
+         "1765250":{
+            "perc":"79",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765271":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765281":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765244":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765261":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         }
+      }
+   },
+   "diario46":{
+      "id":"DomiLPMofRVdCgwSvMXdBw==",
+      "disciplines":{
+         "1765299":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765299",
+            "nok":"http://www.google.com.br/n/1765299",
+            "img":"",
+            "titulo":"Finanças Corporativas"
+         },
+         "1765281":{
+            "perc":"64",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765261":{
+            "perc":"63",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765250":{
+            "perc":"62",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765304":{
+            "perc":"61",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         }
+      }
+   },
+   "diario47":{
+      "id":"z3iHHafml7CuWLlXCkqnnA==",
+      "disciplines":{
+         "1765293":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765293",
+            "nok":"http://www.google.com.br/n/1765293",
+            "img":"",
+            "titulo":"Enfermagem E Os Distúrbios Gastrointestinais, Ostomias E Sondas"
+         },
+         "1765281":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765275":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765250":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         }
+      }
+   },
+   "diario48":{
+      "id":"HwGRpQcAd1jW4UP244rc0A==",
+      "disciplines":{
+         "1765247":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765247",
+            "nok":"http://www.google.com.br/n/1765247",
+            "img":"",
+            "titulo":"Biossegurança E Controle De Infecções"
+         },
+         "1765242":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765242",
+            "nok":"http://www.google.com.br/n/1765242",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sadenica_20220823121052.jpg",
+            "titulo":"Saúde Única"
+         },
+         "1765276":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765276",
+            "nok":"http://www.google.com.br/n/1765276",
+            "img":"",
+            "titulo":"Assistência De Enfermagem Em Oncologia"
+         },
+         "1765325":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         },
+         "1765250":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         }
+      }
+   },
+   "diario49":{
+      "id":"d70sis7244hGB1WL0kAmbA==",
+      "disciplines":{
+         "1765259":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765259",
+            "nok":"http://www.google.com.br/n/1765259",
+            "img":"",
+            "titulo":"Infraestrutura Para Cloud Computing E Big Data"
+         },
+         "1765282":{
+            "perc":"60",
+            "ok":"http://www.google.com.br/1765282",
+            "nok":"http://www.google.com.br/n/1765282",
+            "img":"",
+            "titulo":"Computação Em Nuvem"
+         },
+         "1765326":{
+            "perc":"59",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765318":{
+            "perc":"58",
+            "ok":"http://www.google.com.br/1765318",
+            "nok":"http://www.google.com.br/n/1765318",
+            "img":"",
+            "titulo":"Processamento De Dados Massivos E Modelos De Aprendizado"
+         },
+         "1765313":{
+            "perc":"57",
+            "ok":"http://www.google.com.br/1765313",
+            "nok":"http://www.google.com.br/n/1765313",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1202625934_20200807115054.jpg",
+            "titulo":"Novas Tecnologias E A Internet Das Coisas"
+         }
+      }
+   },
+   "diario50":{
+      "id":"FT6IswMaDrG9DXPrwDHXQg==",
+      "disciplines":{
+         "1765282":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765282",
+            "nok":"http://www.google.com.br/n/1765282",
+            "img":"",
+            "titulo":"Computação Em Nuvem"
+         },
+         "1765259":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765259",
+            "nok":"http://www.google.com.br/n/1765259",
+            "img":"",
+            "titulo":"Infraestrutura Para Cloud Computing E Big Data"
+         },
+         "1765255":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765255",
+            "nok":"http://www.google.com.br/n/1765255",
+            "img":"",
+            "titulo":"Formação Scrum Master E Product Owner"
+         },
+         "1765284":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         }
+      }
+   },
+   "diario51":{
+      "id":"dT/Pp7UosvVpcfUMPH7cIg==",
+      "disciplines":{
+         "1765319":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         },
+         "1765267":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765267",
+            "nok":"http://www.google.com.br/n/1765267",
+            "img":"",
+            "titulo":"A Constituição Federal E A Tecnologia Da Informação"
+         },
+         "1765327":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         },
+         "1765268":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         },
+         "1765316":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         }
+      }
+   },
+   "diario52":{
+      "id":"MYakVGkZ+ri2AFqCXiJspg==",
+      "disciplines":{
+         "1765275":{
+            "perc":"79",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765250":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765271":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765325":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         },
+         "1765300":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         }
+      }
+   },
+   "diario53":{
+      "id":"nlZSENZFFtoP+K8+wMQQ7Q==",
+      "disciplines":{
+         "1765259":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765259",
+            "nok":"http://www.google.com.br/n/1765259",
+            "img":"",
+            "titulo":"Infraestrutura Para Cloud Computing E Big Data"
+         },
+         "1765279":{
+            "perc":"61",
+            "ok":"http://www.google.com.br/1765279",
+            "nok":"http://www.google.com.br/n/1765279",
+            "img":"",
+            "titulo":"Cenários De Devops"
+         },
+         "1765278":{
+            "perc":"60",
+            "ok":"http://www.google.com.br/1765278",
+            "nok":"http://www.google.com.br/n/1765278",
+            "img":"",
+            "titulo":"Big Data Analytics"
+         },
+         "1765318":{
+            "perc":"57",
+            "ok":"http://www.google.com.br/1765318",
+            "nok":"http://www.google.com.br/n/1765318",
+            "img":"",
+            "titulo":"Processamento De Dados Massivos E Modelos De Aprendizado"
+         },
+         "1765326":{
+            "perc":"57",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         }
+      }
+   },
+   "diario54":{
+      "id":"VcqyHLyAV1X6OeVlNggjYA==",
+      "disciplines":{
+         "1765250":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765271":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765274":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765274",
+            "nok":"http://www.google.com.br/n/1765274",
+            "img":"",
+            "titulo":"Análise De Vulnerabilidades E Testes De Invasão"
+         },
+         "1765281":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         }
+      }
+   },
+   "diario55":{
+      "id":"stCltZle2NwUlcmTAjusTA==",
+      "disciplines":{
+         "1765307":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765307",
+            "nok":"http://www.google.com.br/n/1765307",
+            "img":"",
+            "titulo":"Marketing De Conteúdo"
+         },
+         "1765285":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         },
+         "1765308":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765308",
+            "nok":"http://www.google.com.br/n/1765308",
+            "img":"",
+            "titulo":"Marketing E Posicionamento De Mercado"
+         },
+         "1765315":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         },
+         "1765309":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765309",
+            "nok":"http://www.google.com.br/n/1765309",
+            "img":"",
+            "titulo":"Marketing Holístico"
+         }
+      }
+   },
+   "diario56":{
+      "id":"OYrL3pcwqjfByMl50/HgSw==",
+      "disciplines":{
+         "1765284":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1765307":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765307",
+            "nok":"http://www.google.com.br/n/1765307",
+            "img":"",
+            "titulo":"Marketing De Conteúdo"
+         },
+         "1765290":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765290",
+            "nok":"http://www.google.com.br/n/1765290",
+            "img":"",
+            "titulo":"Design E Inovação"
+         },
+         "1765326":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765251":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765251",
+            "nok":"http://www.google.com.br/n/1765251",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesingThinking_20220823121844.jpg",
+            "titulo":"Design Thinking"
+         }
+      }
+   },
+   "diario57":{
+      "id":"TiVaLmRy8adJDfKWcJlgKQ==",
+      "disciplines":{
+         "1765319":{
+            "perc":"92",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         },
+         "1765291":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765291",
+            "nok":"http://www.google.com.br/n/1765291",
+            "img":"",
+            "titulo":"Direito Constitucional Tributário E Normas Gerais Do Ctn"
+         },
+         "1765328":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765328",
+            "nok":"http://www.google.com.br/n/1765328",
+            "img":"",
+            "titulo":"Teoria Do Crime"
+         },
+         "1765317":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765317",
+            "nok":"http://www.google.com.br/n/1765317",
+            "img":"",
+            "titulo":"Procedimento E Processo Tributário"
+         },
+         "1765268":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         }
+      }
+   },
+   "diario58":{
+      "id":"TbUKshS+KBEYkfmcB0ZLoA==",
+      "disciplines":{
+         "1765295":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765295",
+            "nok":"http://www.google.com.br/n/1765295",
+            "img":"",
+            "titulo":"Estética Aplicada Ao Envelhecimento Cutâneo"
+         },
+         "1765296":{
+            "perc":"61",
+            "ok":"http://www.google.com.br/1765296",
+            "nok":"http://www.google.com.br/n/1765296",
+            "img":"",
+            "titulo":"Estética Aplicada As Discromias E Acne"
+         },
+         "1765288":{
+            "perc":"54",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765271":{
+            "perc":"53",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765325":{
+            "perc":"53",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         }
+      }
+   },
+   "diario59":{
+      "id":"NgDV9boQC1AvXcMHAnyqRw==",
+      "disciplines":{
+         "1765252":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         },
+         "1765295":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765295",
+            "nok":"http://www.google.com.br/n/1765295",
+            "img":"",
+            "titulo":"Estética Aplicada Ao Envelhecimento Cutâneo"
+         },
+         "1765320":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765320",
+            "nok":"http://www.google.com.br/n/1765320",
+            "img":"",
+            "titulo":"Reprodução E Obstetricia De Cães E Gatos"
+         },
+         "1765249":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765249",
+            "nok":"http://www.google.com.br/n/1765249",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1492955489_20200730204822.jpg",
+            "titulo":"Cardiologia Em Cães E Gatos"
+         },
+         "1765296":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765296",
+            "nok":"http://www.google.com.br/n/1765296",
+            "img":"",
+            "titulo":"Estética Aplicada As Discromias E Acne"
+         }
+      }
+   },
+   "diario60":{
+      "id":"XvqnFEeDb9dV2BVQlOvVIQ==",
+      "disciplines":{
+         "1765293":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765293",
+            "nok":"http://www.google.com.br/n/1765293",
+            "img":"",
+            "titulo":"Enfermagem E Os Distúrbios Gastrointestinais, Ostomias E Sondas"
+         },
+         "1765276":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765276",
+            "nok":"http://www.google.com.br/n/1765276",
+            "img":"",
+            "titulo":"Assistência De Enfermagem Em Oncologia"
+         },
+         "1765252":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         },
+         "1765249":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765249",
+            "nok":"http://www.google.com.br/n/1765249",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1492955489_20200730204822.jpg",
+            "titulo":"Cardiologia Em Cães E Gatos"
+         },
+         "1765296":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765296",
+            "nok":"http://www.google.com.br/n/1765296",
+            "img":"",
+            "titulo":"Estética Aplicada As Discromias E Acne"
+         }
+      }
+   },
+   "diario61":{
+      "id":"cezfzJOM7/WyvH1tatMdpQ==",
+      "disciplines":{
+         "1765234":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765234",
+            "nok":"http://www.google.com.br/n/1765234",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Globalizaoeestratgia_20220823120729.jpg",
+            "titulo":"Globalização E Estratégia"
+         },
+         "1765251":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765251",
+            "nok":"http://www.google.com.br/n/1765251",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesingThinking_20220823121844.jpg",
+            "titulo":"Design Thinking"
+         },
+         "1765315":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         },
+         "1765285":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         },
+         "1765304":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         }
+      }
+   },
+   "diario62":{
+      "id":"zs5sHfzndLUsdKqC9ugWfg==",
+      "disciplines":{
+         "1765319":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         },
+         "1765286":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765286",
+            "nok":"http://www.google.com.br/n/1765286",
+            "img":"",
+            "titulo":"Contabilidade E Planejamento Tributário"
+         },
+         "1765328":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765328",
+            "nok":"http://www.google.com.br/n/1765328",
+            "img":"",
+            "titulo":"Teoria Do Crime"
+         },
+         "1765317":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765317",
+            "nok":"http://www.google.com.br/n/1765317",
+            "img":"",
+            "titulo":"Procedimento E Processo Tributário"
+         },
+         "1765280":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765280",
+            "nok":"http://www.google.com.br/n/1765280",
+            "img":"",
+            "titulo":"Compliance Fiscal E Relações Tributárias"
+         }
+      }
+   },
+   "diario63":{
+      "id":"CZr+NpR4cLZ3+YQ3rJw4lQ==",
+      "disciplines":{
+         "1765233":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765233",
+            "nok":"http://www.google.com.br/n/1765233",
+            "img":"",
+            "titulo":"Gestão Educacional E Políticas Públicas"
+         },
+         "1765298":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765298",
+            "nok":"http://www.google.com.br/n/1765298",
+            "img":"",
+            "titulo":"Estratégias De Ensino-Aprendizagem Usando Recursos Tecnológicos"
+         },
+         "1766679":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1766679",
+            "nok":"http://www.google.com.br/n/1766679",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/08educacaobasicaavaliacaocurriculo_20221013175932.jpg",
+            "titulo":"Educação Básica: Avaliação E Currículo"
+         },
+         "1765240":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765302":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         }
+      }
+   },
+   "diario64":{
+      "id":"XUt+wCnkJW7wFxlbcgJsTw==",
+      "disciplines":{
+         "1765273":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765273",
+            "nok":"http://www.google.com.br/n/1765273",
+            "img":"",
+            "titulo":"Afecções Do Sistema Digestório De Equinos"
+         },
+         "1765289":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765289",
+            "nok":"http://www.google.com.br/n/1765289",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesequilbriosMultisistmicos_20220823121647.jpg",
+            "titulo":"Desequilíbrios Multissistêmicos"
+         },
+         "1765288":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765247":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765247",
+            "nok":"http://www.google.com.br/n/1765247",
+            "img":"",
+            "titulo":"Biossegurança E Controle De Infecções"
+         },
+         "1765295":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765295",
+            "nok":"http://www.google.com.br/n/1765295",
+            "img":"",
+            "titulo":"Estética Aplicada Ao Envelhecimento Cutâneo"
+         }
+      }
+   },
+   "diario65":{
+      "id":"hW/ExB0zKHPS6wk7yyqCYw==",
+      "disciplines":{
+         "1766676":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1766676",
+            "nok":"http://www.google.com.br/n/1766676",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/05biossegurancasegurancatrabalhadorservicossaude_20221013175811.jpg",
+            "titulo":"Biossegurança E Segurança Do Trabalhador Em Serviços De Saúde"
+         },
+         "1765275":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765302":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765304":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765305":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765305",
+            "nok":"http://www.google.com.br/n/1765305",
+            "img":"",
+            "titulo":"Instalações Prediais E Projetos Complementares"
+         }
+      }
+   },
+   "diario66":{
+      "id":"nqKyHwYDxaLR8FXDMVWSVw==",
+      "disciplines":{
+         "1765296":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765296",
+            "nok":"http://www.google.com.br/n/1765296",
+            "img":"",
+            "titulo":"Estética Aplicada As Discromias E Acne"
+         },
+         "1765288":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765329":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765329",
+            "nok":"http://www.google.com.br/n/1765329",
+            "img":"",
+            "titulo":"Tricoterapia"
+         },
+         "1765318":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765318",
+            "nok":"http://www.google.com.br/n/1765318",
+            "img":"",
+            "titulo":"Processamento De Dados Massivos E Modelos De Aprendizado"
+         },
+         "1765324":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765324",
+            "nok":"http://www.google.com.br/n/1765324",
+            "img":"",
+            "titulo":"Sistemas Para Monitoramento Climático"
+         }
+      }
+   },
+   "diario67":{
+      "id":"yxvVFKeDj1cbIo4aFXdSNw==",
+      "disciplines":{
+         "1765287":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765287",
+            "nok":"http://www.google.com.br/n/1765287",
+            "img":"",
+            "titulo":"Cosmetologia E Cosmiatria"
+         },
+         "1765288":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765261":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765329":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765329",
+            "nok":"http://www.google.com.br/n/1765329",
+            "img":"",
+            "titulo":"Tricoterapia"
+         },
+         "1765281":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         }
+      }
+   },
+   "diario68":{
+      "id":"HovcwM0oGQ1ntvXJSGVaiQ==",
+      "disciplines":{
+         "1765258":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765258",
+            "nok":"http://www.google.com.br/n/1765258",
+            "img":"",
+            "titulo":"Gestão Do Conhecimento E Inteligência Competitiva"
+         },
+         "1765281":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765304":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765300":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765315":{
+            "perc":"67",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         }
+      }
+   },
+   "diario69":{
+      "id":"1dCqMMU20ZFHpQCk+dSgAw==",
+      "disciplines":{
+         "1765285":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         },
+         "1765306":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765306",
+            "nok":"http://www.google.com.br/n/1765306",
+            "img":"",
+            "titulo":"Instrumentos De Avaliação Baseados Em Evidencias E Tecnologias Digitais"
+         },
+         "1765326":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765233":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765233",
+            "nok":"http://www.google.com.br/n/1765233",
+            "img":"",
+            "titulo":"Gestão Educacional E Políticas Públicas"
+         },
+         "1765307":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765307",
+            "nok":"http://www.google.com.br/n/1765307",
+            "img":"",
+            "titulo":"Marketing De Conteúdo"
+         }
+      }
+   },
+   "diario70":{
+      "id":"bEtYdiSRrXpBD5mcTQX4GA==",
+      "disciplines":{
+         "1765302":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765261":{
+            "perc":"60",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765281":{
+            "perc":"59",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765250":{
+            "perc":"59",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765304":{
+            "perc":"59",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         }
+      }
+   },
+   "diario71":{
+      "id":"/faCiYhMwmXgFyPTSlLKxQ==",
+      "disciplines":{
+         "1765258":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765258",
+            "nok":"http://www.google.com.br/n/1765258",
+            "img":"",
+            "titulo":"Gestão Do Conhecimento E Inteligência Competitiva"
+         },
+         "1765315":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         },
+         "1765326":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765281":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765323":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765323",
+            "nok":"http://www.google.com.br/n/1765323",
+            "img":"",
+            "titulo":"Sistemas Integrados De Gestão"
+         }
+      }
+   },
+   "diario72":{
+      "id":"29K4xd3uR2Ag8LtTcBGuPA==",
+      "disciplines":{
+         "1765310":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765310",
+            "nok":"http://www.google.com.br/n/1765310",
+            "img":"",
+            "titulo":"Metodologias Para Gestão De Projetos"
+         },
+         "1765325":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         },
+         "1765300":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765281":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765315":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         }
+      }
+   },
+   "diario73":{
+      "id":"awedNBuWfN2ZOVwd9F2T3A==",
+      "disciplines":{
+         "1765300":{
+            "perc":"66",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765325":{
+            "perc":"59",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         },
+         "1765326":{
+            "perc":"59",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765303":{
+            "perc":"57",
+            "ok":"http://www.google.com.br/1765303",
+            "nok":"http://www.google.com.br/n/1765303",
+            "img":"",
+            "titulo":"Gestão De Alimentos E Bebidas"
+         },
+         "1765315":{
+            "perc":"57",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         }
+      }
+   },
+   "diario74":{
+      "id":"ZQfJQVnI24IW7gDVypMD5g==",
+      "disciplines":{
+         "1765330":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765330",
+            "nok":"http://www.google.com.br/n/1765330",
+            "img":"",
+            "titulo":"Turismo Gastronômico"
+         },
+         "1766681":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1766681",
+            "nok":"http://www.google.com.br/n/1766681",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/10hospitalidadeturismogastronomia_20221013180040.jpg",
+            "titulo":"Hospitalidade, Turismo E Gastronomia"
+         },
+         "1765326":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765302":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765232":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario75":{
+      "id":"bh42EFyUO95MXA95PraH3w==",
+      "disciplines":{
+         "1765323":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765323",
+            "nok":"http://www.google.com.br/n/1765323",
+            "img":"",
+            "titulo":"Sistemas Integrados De Gestão"
+         },
+         "1765315":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         },
+         "1765299":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765299",
+            "nok":"http://www.google.com.br/n/1765299",
+            "img":"",
+            "titulo":"Finanças Corporativas"
+         },
+         "1765281":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765284":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         }
+      }
+   },
+   "diario76":{
+      "id":"nalGx4KFu5oYNT+VjNpUQg==",
+      "disciplines":{
+         "1765324":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765324",
+            "nok":"http://www.google.com.br/n/1765324",
+            "img":"",
+            "titulo":"Sistemas Para Monitoramento Climático"
+         },
+         "1765302":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765294":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765294",
+            "nok":"http://www.google.com.br/n/1765294",
+            "img":"",
+            "titulo":"Engenharia De Segurança E Ergonomia No Trabalho"
+         },
+         "1765285":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         },
+         "1765279":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765279",
+            "nok":"http://www.google.com.br/n/1765279",
+            "img":"",
+            "titulo":"Cenários De Devops"
+         }
+      }
+   },
+   "diario77":{
+      "id":"EIqXvSusWiH+jTUgELRhKg==",
+      "disciplines":{
+         "1765298":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765298",
+            "nok":"http://www.google.com.br/n/1765298",
+            "img":"",
+            "titulo":"Estratégias De Ensino-Aprendizagem Usando Recursos Tecnológicos"
+         },
+         "1765261":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765275":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765250":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765271":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         }
+      }
+   },
+   "diario78":{
+      "id":"hsMNZv/K36Ky+io/4V0EpA==",
+      "disciplines":{
+         "1765284":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1765285":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         },
+         "1765308":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765308",
+            "nok":"http://www.google.com.br/n/1765308",
+            "img":"",
+            "titulo":"Marketing E Posicionamento De Mercado"
+         },
+         "1765304":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1766683":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         }
+      }
+   },
+   "diario79":{
+      "id":"qYcGTgv0ks0EjQ03WZ/6cA==",
+      "disciplines":{
+         "1765284":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1765307":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765307",
+            "nok":"http://www.google.com.br/n/1765307",
+            "img":"",
+            "titulo":"Marketing De Conteúdo"
+         },
+         "1766683":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         },
+         "1766690":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1766690",
+            "nok":"http://www.google.com.br/n/1766690",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/19posicionamentosegmentacaocanaisdistribuicao_20221013180415.jpg",
+            "titulo":"Segmentação, Posicionamento E Canais De Distribuição"
+         },
+         "1765281":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         }
+      }
+   },
+   "diario80":{
+      "id":"eNQHmqU/vDeovyT1SIVrNQ==",
+      "disciplines":{
+         "1765308":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765308",
+            "nok":"http://www.google.com.br/n/1765308",
+            "img":"",
+            "titulo":"Marketing E Posicionamento De Mercado"
+         },
+         "1765284":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1766683":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         },
+         "1765281":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765304":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         }
+      }
+   },
+   "diario81":{
+      "id":"SQD+XY0k2CDQw88UztTMRw==",
+      "disciplines":{
+         "1765255":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765255",
+            "nok":"http://www.google.com.br/n/1765255",
+            "img":"",
+            "titulo":"Formação Scrum Master E Product Owner"
+         },
+         "1765301":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765301",
+            "nok":"http://www.google.com.br/n/1765301",
+            "img":"",
+            "titulo":"Gestão Da Entrega: Expectativas, Incertezas E Riscos"
+         },
+         "1765304":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765261":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765279":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765279",
+            "nok":"http://www.google.com.br/n/1765279",
+            "img":"",
+            "titulo":"Cenários De Devops"
+         }
+      }
+   },
+   "diario82":{
+      "id":"PMQa35mzBCjIjz7HNziHHQ==",
+      "disciplines":{
+         "1765264":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765264",
+            "nok":"http://www.google.com.br/n/1765264",
+            "img":"",
+            "titulo":"Neuropsicologia Das Funções Cognitivas"
+         },
+         "1765295":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765295",
+            "nok":"http://www.google.com.br/n/1765295",
+            "img":"",
+            "titulo":"Estética Aplicada Ao Envelhecimento Cutâneo"
+         },
+         "1765252":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         },
+         "1765318":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765318",
+            "nok":"http://www.google.com.br/n/1765318",
+            "img":"",
+            "titulo":"Processamento De Dados Massivos E Modelos De Aprendizado"
+         },
+         "1765288":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         }
+      }
+   },
+   "diario83":{
+      "id":"bzNi03mFq2tnfiHDI6Lulg==",
+      "disciplines":{
+         "1765264":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765264",
+            "nok":"http://www.google.com.br/n/1765264",
+            "img":"",
+            "titulo":"Neuropsicologia Das Funções Cognitivas"
+         },
+         "1765246":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765246",
+            "nok":"http://www.google.com.br/n/1765246",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/AvaliaoeReabilitaoNeuropsicolgicadeAdolescentes_20220823121744.jpg",
+            "titulo":"Avaliação E Reabilitação Neuropsicológica De Adolescentes"
+         },
+         "1765276":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765276",
+            "nok":"http://www.google.com.br/n/1765276",
+            "img":"",
+            "titulo":"Assistência De Enfermagem Em Oncologia"
+         },
+         "1765289":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765289",
+            "nok":"http://www.google.com.br/n/1765289",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/DesequilbriosMultisistmicos_20220823121647.jpg",
+            "titulo":"Desequilíbrios Multissistêmicos"
+         },
+         "1765252":{
+            "perc":"68",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         }
+      }
+   },
+   "diario84":{
+      "id":"rI4PH/pvWDbimYsk+ltpaQ==",
+      "disciplines":{
+         "1765270":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765270",
+            "nok":"http://www.google.com.br/n/1765270",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/2113795/Aquartarevoluoindustrialeasociedadedainformao_20191022134121.jpg",
+            "titulo":"A Quarta Revolução Industrial E A Sociedade Da Informação"
+         },
+         "1765278":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765278",
+            "nok":"http://www.google.com.br/n/1765278",
+            "img":"",
+            "titulo":"Big Data Analytics"
+         },
+         "1765282":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765282",
+            "nok":"http://www.google.com.br/n/1765282",
+            "img":"",
+            "titulo":"Computação Em Nuvem"
+         },
+         "1765326":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765315":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         }
+      }
+   },
+   "diario86":{
+      "id":"6MDxAcyqBCVUDIcuM7y4Ow==",
+      "disciplines":{
+         "1765326":{
+            "perc":"79",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765300":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765304":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765258":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765258",
+            "nok":"http://www.google.com.br/n/1765258",
+            "img":"",
+            "titulo":"Gestão Do Conhecimento E Inteligência Competitiva"
+         },
+         "1765284":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         }
+      }
+   },
+   "diario87":{
+      "id":"OE530I6OtFjjybP6aZmK6w==",
+      "disciplines":{
+         "1765327":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         },
+         "1765328":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765328",
+            "nok":"http://www.google.com.br/n/1765328",
+            "img":"",
+            "titulo":"Teoria Do Crime"
+         },
+         "1765317":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765317",
+            "nok":"http://www.google.com.br/n/1765317",
+            "img":"",
+            "titulo":"Procedimento E Processo Tributário"
+         },
+         "1765291":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765291",
+            "nok":"http://www.google.com.br/n/1765291",
+            "img":"",
+            "titulo":"Direito Constitucional Tributário E Normas Gerais Do Ctn"
+         },
+         "1765319":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         }
+      }
+   },
+   "diario88":{
+      "id":"GsE9Kwj2+RaTDfayPdKRYA==",
+      "disciplines":{
+         "1765319":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         },
+         "1765291":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765291",
+            "nok":"http://www.google.com.br/n/1765291",
+            "img":"",
+            "titulo":"Direito Constitucional Tributário E Normas Gerais Do Ctn"
+         },
+         "1765316":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         },
+         "1765328":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765328",
+            "nok":"http://www.google.com.br/n/1765328",
+            "img":"",
+            "titulo":"Teoria Do Crime"
+         },
+         "1765268":{
+            "perc":"65",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         }
+      }
+   },
+   "diario89":{
+      "id":"ydDpO1s04m311GfUoRONcA==",
+      "disciplines":{
+         "1765278":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765278",
+            "nok":"http://www.google.com.br/n/1765278",
+            "img":"",
+            "titulo":"Big Data Analytics"
+         },
+         "1765282":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765282",
+            "nok":"http://www.google.com.br/n/1765282",
+            "img":"",
+            "titulo":"Computação Em Nuvem"
+         },
+         "1765279":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765279",
+            "nok":"http://www.google.com.br/n/1765279",
+            "img":"",
+            "titulo":"Cenários De Devops"
+         },
+         "1765284":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1765285":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765285",
+            "nok":"http://www.google.com.br/n/1765285",
+            "img":"",
+            "titulo":"Comunicação Digital"
+         }
+      }
+   },
+   "diario90":{
+      "id":"WulsrKswOkb0adZpDlXdGA==",
+      "disciplines":{
+         "1765291":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765291",
+            "nok":"http://www.google.com.br/n/1765291",
+            "img":"",
+            "titulo":"Direito Constitucional Tributário E Normas Gerais Do Ctn"
+         },
+         "1765328":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765328",
+            "nok":"http://www.google.com.br/n/1765328",
+            "img":"",
+            "titulo":"Teoria Do Crime"
+         },
+         "1765317":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765317",
+            "nok":"http://www.google.com.br/n/1765317",
+            "img":"",
+            "titulo":"Procedimento E Processo Tributário"
+         },
+         "1765327":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         },
+         "1765268":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         }
+      }
+   },
+   "diario91":{
+      "id":"bqbn5Y67okdY0gUoNVyJPw==",
+      "disciplines":{
+         "1765288":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765252":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         },
+         "1765273":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765273",
+            "nok":"http://www.google.com.br/n/1765273",
+            "img":"",
+            "titulo":"Afecções Do Sistema Digestório De Equinos"
+         },
+         "1765249":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765249",
+            "nok":"http://www.google.com.br/n/1765249",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1492955489_20200730204822.jpg",
+            "titulo":"Cardiologia Em Cães E Gatos"
+         },
+         "1765302":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         }
+      }
+   },
+   "diario92":{
+      "id":"W1rY8TWbS3DEOn9GP/0Uiw==",
+      "disciplines":{
+         "1765273":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765273",
+            "nok":"http://www.google.com.br/n/1765273",
+            "img":"",
+            "titulo":"Afecções Do Sistema Digestório De Equinos"
+         },
+         "1765288":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765288",
+            "nok":"http://www.google.com.br/n/1765288",
+            "img":"",
+            "titulo":"Dermatologia Em Cães E Gatos"
+         },
+         "1765302":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765272":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765272",
+            "nok":"http://www.google.com.br/n/1765272",
+            "img":"",
+            "titulo":"Afecções Do Sistema Digestório De Bovinos"
+         },
+         "1765252":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765252",
+            "nok":"http://www.google.com.br/n/1765252",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/EndocrinologiaemCeseGatos_20220823121603.jpg",
+            "titulo":"Endocrinologia Em Cães E Gatos"
+         }
+      }
+   },
+   "diario93":{
+      "id":"eIVaJX8oYxn1xwxYJRtOGw==",
+      "disciplines":{
+         "1765305":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765305",
+            "nok":"http://www.google.com.br/n/1765305",
+            "img":"",
+            "titulo":"Instalações Prediais E Projetos Complementares"
+         },
+         "1765323":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765323",
+            "nok":"http://www.google.com.br/n/1765323",
+            "img":"",
+            "titulo":"Sistemas Integrados De Gestão"
+         },
+         "1765325":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         },
+         "1765304":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765326":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         }
+      }
+   },
+   "diario94":{
+      "id":"2SVzhD/p9S1FksxSaZl9Cg==",
+      "disciplines":{
+         "1765310":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765310",
+            "nok":"http://www.google.com.br/n/1765310",
+            "img":"",
+            "titulo":"Metodologias Para Gestão De Projetos"
+         },
+         "1765304":{
+            "perc":"61",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765326":{
+            "perc":"60",
+            "ok":"http://www.google.com.br/1765326",
+            "nok":"http://www.google.com.br/n/1765326",
+            "img":"",
+            "titulo":"Tecnologias Exponenciais"
+         },
+         "1765284":{
+            "perc":"58",
+            "ok":"http://www.google.com.br/1765284",
+            "nok":"http://www.google.com.br/n/1765284",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/1905558/shutterstock_1452180959_20200807113704.jpg",
+            "titulo":"Comunicação Corporativa"
+         },
+         "1765300":{
+            "perc":"57",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         }
+      }
+   },
+   "diario95":{
+      "id":"xt0wr9NgWnTuQadaHRKoRw==",
+      "disciplines":{
+         "1765302":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765315":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         },
+         "1765305":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765305",
+            "nok":"http://www.google.com.br/n/1765305",
+            "img":"",
+            "titulo":"Instalações Prediais E Projetos Complementares"
+         },
+         "1765323":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765323",
+            "nok":"http://www.google.com.br/n/1765323",
+            "img":"",
+            "titulo":"Sistemas Integrados De Gestão"
+         },
+         "1765325":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765325",
+            "nok":"http://www.google.com.br/n/1765325",
+            "img":"",
+            "titulo":"Sustentabilidade Das Organizações"
+         }
+      }
+   },
+   "diario96":{
+      "id":"L6xqLbKK1eLnZRc1wztV4A==",
+      "disciplines":{
+         "1765275":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765261":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765261",
+            "nok":"http://www.google.com.br/n/1765261",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3124731/metodologia_agil_larga_escala_20220624181210.jpg",
+            "titulo":"Metodologia Ágil Em Larga Escala"
+         },
+         "1765302":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765271":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         },
+         "1765250":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         }
+      }
+   },
+   "diario97":{
+      "id":"74ZP2d6NhdxOI4VOuoum8Q==",
+      "disciplines":{
+         "1765300":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765300",
+            "nok":"http://www.google.com.br/n/1765300",
+            "img":"",
+            "titulo":"Formação E Gestão De Equipes De Alta Performance"
+         },
+         "1765323":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765323",
+            "nok":"http://www.google.com.br/n/1765323",
+            "img":"",
+            "titulo":"Sistemas Integrados De Gestão"
+         },
+         "1765278":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765278",
+            "nok":"http://www.google.com.br/n/1765278",
+            "img":"",
+            "titulo":"Big Data Analytics"
+         },
+         "1765302":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765303":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765303",
+            "nok":"http://www.google.com.br/n/1765303",
+            "img":"",
+            "titulo":"Gestão De Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario98":{
+      "id":"o+0Q3smqYm/JllLjbHTSmQ==",
+      "disciplines":{
+         "1765316":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         },
+         "1765268":{
+            "perc":"80",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         },
+         "1765319":{
+            "perc":"73",
+            "ok":"http://www.google.com.br/1765319",
+            "nok":"http://www.google.com.br/n/1765319",
+            "img":"",
+            "titulo":"Punibilidade E Responsabilidade Tributária"
+         },
+         "1765291":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765291",
+            "nok":"http://www.google.com.br/n/1765291",
+            "img":"",
+            "titulo":"Direito Constitucional Tributário E Normas Gerais Do Ctn"
+         },
+         "1765286":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765286",
+            "nok":"http://www.google.com.br/n/1765286",
+            "img":"",
+            "titulo":"Contabilidade E Planejamento Tributário"
+         }
+      }
+   },
+   "diario99":{
+      "id":"SZArd4LFikCrDlPSuC8i6A==",
+      "disciplines":{
+         "1765327":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1765327",
+            "nok":"http://www.google.com.br/n/1765327",
+            "img":"",
+            "titulo":"Teoria Da Pena"
+         },
+         "1765286":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765286",
+            "nok":"http://www.google.com.br/n/1765286",
+            "img":"",
+            "titulo":"Contabilidade E Planejamento Tributário"
+         },
+         "1765268":{
+            "perc":"78",
+            "ok":"http://www.google.com.br/1765268",
+            "nok":"http://www.google.com.br/n/1765268",
+            "img":"",
+            "titulo":"A Investigação E A Ação Penal"
+         },
+         "1765291":{
+            "perc":"76",
+            "ok":"http://www.google.com.br/1765291",
+            "nok":"http://www.google.com.br/n/1765291",
+            "img":"",
+            "titulo":"Direito Constitucional Tributário E Normas Gerais Do Ctn"
+         },
+         "1765316":{
+            "perc":"75",
+            "ok":"http://www.google.com.br/1765316",
+            "nok":"http://www.google.com.br/n/1765316",
+            "img":"",
+            "titulo":"Princípios Constitucionais Aplicados"
+         }
+      }
+   },
+   "diario100":{
+      "id":"zZ6N+YEK7uacd/agfiOJFQ==",
+      "disciplines":{
+         "1765281":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765281",
+            "nok":"http://www.google.com.br/n/1765281",
+            "img":"",
+            "titulo":"Comportamento E Desenvolvimento Organizacional"
+         },
+         "1765250":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765250",
+            "nok":"http://www.google.com.br/n/1765250",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/CriptografiaeSegurananaComunicao_20220823122402.jpg",
+            "titulo":"Criptografia E Segurança Na Comunicação"
+         },
+         "1765275":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765275",
+            "nok":"http://www.google.com.br/n/1765275",
+            "img":"",
+            "titulo":"Análise Econômico-Financeira De Investimentos"
+         },
+         "1765299":{
+            "perc":"71",
+            "ok":"http://www.google.com.br/1765299",
+            "nok":"http://www.google.com.br/n/1765299",
+            "img":"",
+            "titulo":"Finanças Corporativas"
+         },
+         "1765271":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765271",
+            "nok":"http://www.google.com.br/n/1765271",
+            "img":"",
+            "titulo":"Advocacia No Direito Digital E Proteção De Dados"
+         }
+      }
+   },
+   "diario101":{
+      "id":"QTKf30/0yvoEs2jX57Yf+w==",
+      "disciplines":{
+         "1766681":{
+            "perc":"74",
+            "ok":"http://www.google.com.br/1766681",
+            "nok":"http://www.google.com.br/n/1766681",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/10hospitalidadeturismogastronomia_20221013180040.jpg",
+            "titulo":"Hospitalidade, Turismo E Gastronomia"
+         },
+         "1765265":{
+            "perc":"72",
+            "ok":"http://www.google.com.br/1765265",
+            "nok":"http://www.google.com.br/n/1765265",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/PlanejamentodeCardpioegestodecustos_20220823122450.jpg",
+            "titulo":"Planejamento De Cardápio E Gestão De Custos"
+         },
+         "1765304":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765304",
+            "nok":"http://www.google.com.br/n/1765304",
+            "img":"",
+            "titulo":"Gestão Do Prazo E Do Orçamento"
+         },
+         "1765302":{
+            "perc":"70",
+            "ok":"http://www.google.com.br/1765302",
+            "nok":"http://www.google.com.br/n/1765302",
+            "img":"",
+            "titulo":"Gestão Da Produção"
+         },
+         "1765315":{
+            "perc":"69",
+            "ok":"http://www.google.com.br/1765315",
+            "nok":"http://www.google.com.br/n/1765315",
+            "img":"",
+            "titulo":"Operações De Manufatura E De Serviços"
+         }
+      }
+   },
+   "diario102":{
+      "id":"4VBMZF4rP1UD525Fqp5HWA==",
+      "disciplines":{
+         "1765236":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765236",
+            "nok":"http://www.google.com.br/n/1765236",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/MeiosdeRepresentao_20220823120823.jpg",
+            "titulo":"Meios De Representação"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765244":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario103":{
+      "id":"hoaORH9zYVxXaAaXLs98Ow==",
+      "disciplines":{
+         "1765240":{
+            "perc":"79",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"77",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario104":{
+      "id":"i3kt0Jd+MNaprfbA2GCfSg==",
+      "disciplines":{
+         "1765244":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765240":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766684":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         },
+         "1766675":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario105":{
+      "id":"4Gwg8ELon1KZ9z/M1R2bVA==",
+      "disciplines":{
+         "1765244":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765240":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765245":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765238":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765238",
+            "nok":"http://www.google.com.br/n/1765238",
+            "img":"",
+            "titulo":"Modelagem E Simulação De Sistemas Elétricos E Magnéticos"
+         },
+         "1766684":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1766684",
+            "nok":"http://www.google.com.br/n/1766684",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/13modelagemsoftware_20221013180154.jpg",
+            "titulo":"Modelagem De Software"
+         }
+      }
+   },
+   "diario106":{
+      "id":"GoqMiYQdeI2velheFxxzVQ==",
+      "disciplines":{
+         "1765232":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765240":{
+            "perc":"90",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765244":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1766689":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         }
+      }
+   },
+   "diario107":{
+      "id":"GS1tJE3+hD/4X/Rv6VYD3g==",
+      "disciplines":{
+         "1765242":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765242",
+            "nok":"http://www.google.com.br/n/1765242",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sadenica_20220823121052.jpg",
+            "titulo":"Saúde Única"
+         },
+         "1765240":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766689":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1766675":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario108":{
+      "id":"5W/RxY2nlSVIg8REincS8Q==",
+      "disciplines":{
+         "1765240":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario109":{
+      "id":"uVqpPtjvi7u/FML9qGFU/g==",
+      "disciplines":{
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765244":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario110":{
+      "id":"c3A5AF/h1gApM8PbPYHOQA==",
+      "disciplines":{
+         "1765240":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765233":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765233",
+            "nok":"http://www.google.com.br/n/1765233",
+            "img":"",
+            "titulo":"Gestão Educacional E Políticas Públicas"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario111":{
+      "id":"DwKH3IwOo6alcyXedEniyQ==",
+      "disciplines":{
+         "1765240":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765244":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario112":{
+      "id":"wDRP+BrtPcUVFJt3WhQXuA==",
+      "disciplines":{
+         "1765232":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765240":{
+            "perc":"84",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"84",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"83",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario113":{
+      "id":"9tcWVP8p0wfCi8o8aAhbsQ==",
+      "disciplines":{
+         "1765240":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766689":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1765232":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1766675":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"85",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario114":{
+      "id":"piohAt9TygN/GOl51jccmQ==",
+      "disciplines":{
+         "1766675":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765240":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766690":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766690",
+            "nok":"http://www.google.com.br/n/1766690",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/19posicionamentosegmentacaocanaisdistribuicao_20221013180415.jpg",
+            "titulo":"Segmentação, Posicionamento E Canais De Distribuição"
+         }
+      }
+   },
+   "diario115":{
+      "id":"ClyKXlr04nBs6BbcGwtpng==",
+      "disciplines":{
+         "1765240":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1765244":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         },
+         "1765245":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1766675":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario116":{
+      "id":"PkZX5TCj+HAOZtVrK1TSDQ==",
+      "disciplines":{
+         "1765240":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario117":{
+      "id":"m+toc9qERYA1uoh/e+st5Q==",
+      "disciplines":{
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765245":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765244":{
+            "perc":"86",
+            "ok":"http://www.google.com.br/1765244",
+            "nok":"http://www.google.com.br/n/1765244",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Sistemascomputacionaisesegurana_20220823121154.jpg",
+            "titulo":"Sistemas Computacionais E Segurança"
+         }
+      }
+   },
+   "diario118":{
+      "id":"rtfm3jL/rt8gi51iPmGFEw==",
+      "disciplines":{
+         "1766689":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario119":{
+      "id":"r68CRNAAHUxvEjiWx0wTOw==",
+      "disciplines":{
+         "1766691":{
+            "perc":"91",
+            "ok":"http://www.google.com.br/1766691",
+            "nok":"http://www.google.com.br/n/1766691",
+            "img":"",
+            "titulo":"Teorias Criminológicas"
+         },
+         "1765240":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1766689":{
+            "perc":"82",
+            "ok":"http://www.google.com.br/1766689",
+            "nok":"http://www.google.com.br/n/1766689",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/18relacoesestataismeioambientesustentabilidade_20221013180356.jpg",
+            "titulo":"Relações Estatais, Meio Ambiente E Sustentabilidade"
+         },
+         "1765245":{
+            "perc":"81",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   },
+   "diario120":{
+      "id":"4XaU3qwaESfh2cvktT98Uw==",
+      "disciplines":{
+         "1765240":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1766687":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1766687",
+            "nok":"http://www.google.com.br/n/1766687",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/16pessoasrelacoesfamiliaressucessorias_20221013180304.jpg",
+            "titulo":"Pessoas, Relações Familiares E Sucessórias"
+         },
+         "1765245":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"89",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         }
+      }
+   },
+   "diario121":{
+      "id":"UFkqjHWloH8LAWYdd2b7LQ==",
+      "disciplines":{
+         "1766683":{
+            "perc":"88",
+            "ok":"http://www.google.com.br/1766683",
+            "nok":"http://www.google.com.br/n/1766683",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/12marketingbrandingprospeccaomercado_20221013180126.jpg",
+            "titulo":"Marketing, Branding E Prospecção De Mercado"
+         },
+         "1766675":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         },
+         "1765232":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765232",
+            "nok":"http://www.google.com.br/n/1765232",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/GestodeNegciosemAlimentoseBebidas_20220823120641.jpg",
+            "titulo":"Gestão De Negócios Em Alimentos E Bebidas"
+         },
+         "1765240":{
+            "perc":"87",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         }
+      }
+   },
+   "diario122":{
+      "id":"LJGVykHr51wr6TwLSebKvw==",
+      "disciplines":{
+         "1766691":{
+            "perc":"91",
+            "ok":"",
+            "nok":"",
+            "img":"",
+            "titulo":"Teorias Criminológicas"
+         },
+         "1766688":{
+            "perc":"85",
+            "ok":"",
+            "nok":"",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/17politicacriminalcriminologiacontemporanea_20221013180331.jpg",
+            "titulo":"Política Criminal E A Criminologia Contemporânea"
+         },
+         "1765240":{
+            "perc":"84",
+            "ok":"",
+            "nok":"",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
+            "titulo":"Profissão Docente E Identidade Profissional"
+         },
+         "1766675":{
+            "perc":"84",
+            "ok":"",
+            "nok":"",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
+            "titulo":"Aspectos Humanos E Socioculturais"
+         },
+         "1765245":{
+            "perc":"84",
+            "ok":"",
+            "nok":"",
+            "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
+            "titulo":"Tomada De Decisão"
+         }
+      }
+   }
+}
 ]
