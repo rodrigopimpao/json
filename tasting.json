@@ -1,5 +1,5 @@
 [
-{
+	{
    "diario1":{
       "id":"oQUkw5u0XawRThsRtox1RA==",
       "disciplines":{
@@ -4805,36 +4805,36 @@
       "disciplines":{
          "1766691":{
             "perc":"91",
-            "ok":"",
-            "nok":"",
+            "ok":"http://www.google.com.br/1766691",
+            "nok":"http://www.google.com.br/n/1766691",
             "img":"",
             "titulo":"Teorias Criminológicas"
          },
          "1766688":{
             "perc":"85",
-            "ok":"",
-            "nok":"",
+            "ok":"http://www.google.com.br/1766688",
+            "nok":"http://www.google.com.br/n/1766688",
             "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/17politicacriminalcriminologiacontemporanea_20221013180331.jpg",
             "titulo":"Política Criminal E A Criminologia Contemporânea"
          },
          "1765240":{
             "perc":"84",
-            "ok":"",
-            "nok":"",
+            "ok":"http://www.google.com.br/1765240",
+            "nok":"http://www.google.com.br/n/1765240",
             "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Profissodocenteeidentidadeprofissional_20220823120954.jpg",
             "titulo":"Profissão Docente E Identidade Profissional"
          },
          "1766675":{
             "perc":"84",
-            "ok":"",
-            "nok":"",
+            "ok":"http://www.google.com.br/1766675",
+            "nok":"http://www.google.com.br/n/1766675",
             "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/04aspectoshumanossocioculturais_20221013175739.jpg",
             "titulo":"Aspectos Humanos E Socioculturais"
          },
          "1765245":{
             "perc":"84",
-            "ok":"",
-            "nok":"",
+            "ok":"http://www.google.com.br/1765245",
+            "nok":"http://www.google.com.br/n/1765245",
             "img":"https://mediacdns3.ulife.com.br/PAT/Upload/3132665/Tomadadedeciso_20220823121213.jpg",
             "titulo":"Tomada De Decisão"
          }
