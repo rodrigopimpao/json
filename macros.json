@@ -1,0 +1,395 @@
+[
+{
+"name": "Resp-SOCIESC_Park Shopping"
+},
+{
+"name": "Resp-SOCIESC_Polo Florianópolis/Manhã"
+},
+{
+"name": "Resp-SOCIESC_Polo Florianópolis/Noite"
+},
+{
+"name": "Resp-SOCIESC_Polo Itajaí/Noite"
+},
+{
+"name": "Resp-SOCIESC_Polo Jaraguá do Sul/Noite"
+},
+{
+"name": "Resp-SOCIESC_Polo São Bento do Sul/Noite"
+},
+{
+"name": "Resp-SOCIESC_São Bento do Sul"
+},
+{
+"name": "Resp-SOCIESC_Unidade Acadêmica Anita Garibaldi"
+},
+{
+"name": "Resp-SOCIESC_Unidade Acadêmica Blumenau"
+},
+{
+"name": "Resp-SOCIESC_Unidade Acadêmica Itajaí"
+},
+{
+"name": "Resp-SOCIESC_Unidade Acadêmica São Bento do Sul"
+},
+{
+"name": "Resp-SOCIESC_Unidade Acadêmica Shopping"
+},
+{
+"name": "Resp-UAM_Avenida Paulista"
+},
+{
+"name": "Resp-UAM_Centro - Mooca"
+},
+{
+"name": "Resp-UAM_Piracicaba"
+},
+{
+"name": "Resp-UAM_São José dos Campos"
+},
+{
+"name": "Resp-UAM_Unidade Acadêmica Avenida Paulista"
+},
+{
+"name": "Resp-UAM_Unidade Acadêmica Centro - Mooca"
+},
+{
+"name": "Resp-UAM_Unidade Acadêmica Piracicaba"
+},
+{
+"name": "Resp-UAM_Unidade Acadêmica São José Dos Campos"
+},
+{
+"name": "Resp-UAM_Unidade Acadêmica Vila Olímpia"
+},
+{
+"name": "Resp-UAM_Vila Olímpia"
+},
+{
+"name": "Resp-UNA_Aimorés"
+},
+{
+"name": "Resp-UNA_Barreiro"
+},
+{
+"name": "Resp-UNA_Betim"
+},
+{
+"name": "Resp-UNA_Bom Despacho"
+},
+{
+"name": "Resp-UNA_Conselheiro Lafaiete"
+},
+{
+"name": "Resp-UNA_Contagem"
+},
+{
+"name": "Resp-UNA_Cristiano Machado"
+},
+{
+"name": "Resp-UNA_Divinópolis"
+},
+{
+"name": "Resp-UNA_Itabira"
+},
+{
+"name": "Resp-UNA_Itumbiara"
+},
+{
+"name": "Resp-UNA_Jataí"
+},
+{
+"name": "Resp-UNA_Karaíba"
+},
+{
+"name": "Resp-UNA_Liberdade"
+},
+{
+"name": "Resp-UNA_Linha Verde"
+},
+{
+"name": "Resp-UNA_Pouso Alegre"
+},
+{
+"name": "Resp-UNA_Santa Cruz"
+},
+{
+"name": "Resp-UNA_Sete Lagoas"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Aimorés"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Barreiro"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Betim"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Conselheiro Lafaiete"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Contagem"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Cristiano Machado"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica de Bom Despacho"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Divinópolis"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Itabira"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Itumbiara"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Jataí"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Karaíba"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Liberdade"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Linha Verde"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Pouso Alegre"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Santa Cruz"
+},
+{
+"name": "Resp-UNA_Unidade Acadêmica Sete Lagoas"
+},
+{
+"name": "Resp-UNIBH_Cristiano Machado"
+},
+{
+"name": "Resp-UNIBH_Estoril"
+},
+{
+"name": "Resp-UNIBH_Unidade Acadêmica Estoril"
+},
+{
+"name": "Resp-UNICURITIBA_Milton Viana"
+},
+{
+"name": "Resp-UNICURITIBA_Milton Vianna Filho"
+},
+{
+"name": "Resp-UNICURITIBA_Unidade Acadêmica Milton Viana"
+},
+{
+"name": "Resp-UNIFACS_Lapa"
+},
+{
+"name": "Resp-UNIFACS_Professor Barros"
+},
+{
+"name": "Resp-UNIFACS_Santa Mônica"
+},
+{
+"name": "Resp-UNIFACS_Tancredo Neves"
+},
+{
+"name": "Resp-UNIFACS_Unidade Acadêmica Lapa"
+},
+{
+"name": "Resp-UNIFACS_Unidade Acadêmica Professor Barros"
+},
+{
+"name": "Resp-UNIFACS_Unidade Acadêmica Santa Mônica"
+},
+{
+"name": "Resp-UNIFACS_Unidade Acadêmica Tancredo Neves"
+},
+{
+"name": "Resp-UNIFG_Brumado"
+},
+{
+"name": "Resp-UNIFG_São Sebastião"
+},
+{
+"name": "Resp-UNIFGUA_Boa Vista"
+},
+{
+"name": "Resp-UNIFGUA_Piedade"
+},
+{
+"name": "Resp-UNIFGUA_Unidade Acadêmica Boa Vista"
+},
+{
+"name": "Resp-UNIFGUA_Unidade Acadêmica Piedade"
+},
+{
+"name": "Resp-UNIRITTER_Canoas"
+},
+{
+"name": "Resp-UNIRITTER_Fapa"
+},
+{
+"name": "Resp-UNIRITTER_Unidade Acadêmica Canoas"
+},
+{
+"name": "Resp-UNIRITTER_Unidade Acadêmica Fapa"
+},
+{
+"name": "Resp-UNIRITTER_Unidade Acadêmica Zona Sul"
+},
+{
+"name": "Resp-UNIRITTER_Zona Sul"
+},
+{
+"name": "Resp-Unisul_Araranguá"
+},
+{
+"name": "Resp-Unisul_Balneário Camboriú"
+},
+{
+"name": "Resp-Unisul_Braço do Norte"
+},
+{
+"name": "Resp-Unisul_Continente"
+},
+{
+"name": "Resp-Unisul_Criciúma"
+},
+{
+"name": "Resp-Unisul_Içara"
+},
+{
+"name": "Resp-Unisul_Ilha"
+},
+{
+"name": "Resp-Unisul_Itajaí"
+},
+{
+"name": "Resp-Unisul_Pedra Branca"
+},
+{
+"name": "Resp-Unisul_Trajano"
+},
+{
+"name": "Resp-Unisul_Tubarão"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Araranguá"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Braço do Norte"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Continente"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Criciúma"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Ilha"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Itajaí"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Pedra Branca"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Trajano"
+},
+{
+"name": "Resp-Unisul_Unidade Acadêmica Tubarão"
+},
+{
+"name": "Resp-UNP_Salgado Filho"
+},
+{
+"name": "Resp-UNP_Unidade Acadêmica Caicó"
+},
+{
+"name": "Resp-UNP_Unidade Acadêmica Mossoró"
+},
+{
+"name": "Resp-UNP_Unidade Acadêmica Pau Dos Ferros"
+},
+{
+"name": "Resp-UNP_Unidade Acadêmica Salgado Filho"
+},
+{
+"name": "Resp-UNP_Unidade Acadêmica Zona Norte"
+},
+{
+"name": "Resp-UNP_Unidade Mossoró"
+},
+{
+"name": "Resp-UNP_Unidade Zona Norte - João Medeiros"
+},
+{
+"name": "Resp-USJT_Butantã"
+},
+{
+"name": "Resp-USJT_Cubatão"
+},
+{
+"name": "Resp-USJT_Guarulhos"
+},
+{
+"name": "Resp-USJT_Jabaquara"
+},
+{
+"name": "Resp-USJT_Mooca"
+},
+{
+"name": "Resp-USJT_Paulista"
+},
+{
+"name": "Resp-USJT_Santana"
+},
+{
+"name": "Resp-USJT_Santo Amaro"
+},
+{
+"name": "Resp-USJT_São Bernardo do Campo"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Butantã"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Guarulhos"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Jabaquara"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Mooca"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Paulista"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Santana"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Santo Amaro"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Santos"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica São Bernardo do Campo"
+},
+{
+"name": "Resp-USJT_Unidade Acadêmica Vila Leopoldina"
+},
+{
+"name": "Resp-USJT_Vila Leopoldina"
+},
+{
+"name": "Resp-USJT_Vila Mathias"
+}
+]
